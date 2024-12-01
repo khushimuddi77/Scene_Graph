@@ -48,5 +48,7 @@ Cross-Modal Analysis: Extend to incorporate textual and audio data for multimoda
 
 # Contributors
 Khushi Suresh Muddi
+
 Shreya Suresh Jindrali
+
 Shikha Reji
