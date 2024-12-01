@@ -4,14 +4,20 @@ This project focuses on summarizing image collections by generating scene graphs
 
 # Table of Contents
 Overview
-Features
-Dataset
-Installation
-Results
-Future Work
-Contributors
-Overview
 
+Features
+
+Dataset
+
+Installation
+
+Results
+
+Future Work
+
+Contributors
+
+# Overview
 With the rapid growth of digital image collections, understanding relationships within these datasets is essential. This project leverages scene graph generation to create meaningful summaries of image collections, enabling advanced analysis across domains like media organization, visual search, and digital archiving.
 
 # Key Components:
