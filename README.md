@@ -22,9 +22,13 @@ With the rapid growth of digital image collections, understanding relationships 
 
 # Key Components:
 Object Detection: RetinaNet with ResNet-50 backbone for detecting objects in images.
+
 Feature Extraction: VGG16 to extract feature vectors for detected objects.
+
 Contextual Embeddings: BiLSTM for capturing object relationships.
+
 External Knowledge Integration: ConceptNet to enhance semantic context using graph convolutions.
+
 Scene Graph Generation: IoU-based spatial relationship modeling and semantic merging.
 
 # Features
